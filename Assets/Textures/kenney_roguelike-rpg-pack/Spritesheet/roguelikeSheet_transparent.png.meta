@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -35584,8 +35584,8 @@ TextureImporter:
       roguelikeSheet_transparent_1122: 977464511
       roguelikeSheet_transparent_1566: 2053661344
       roguelikeSheet_transparent_986: -940492416
-      roguelikeSheet_transparent_895: 2140027171
       roguelikeSheet_transparent_1035: 147961847
+      roguelikeSheet_transparent_895: 2140027171
       roguelikeSheet_transparent_844: 1639027346
       roguelikeSheet_transparent_1616: -1760588722
       roguelikeSheet_transparent_654: -758216076
@@ -35594,12 +35594,12 @@ TextureImporter:
       roguelikeSheet_transparent_671: 1463809281
       roguelikeSheet_transparent_1448: 884936222
       roguelikeSheet_transparent_41: -244322483
-      roguelikeSheet_transparent_896: -500153108
+      roguelikeSheet_transparent_1661: 1061196275
       roguelikeSheet_transparent_162: 145130954
       roguelikeSheet_transparent_217: -1052731023
       roguelikeSheet_transparent_1682: -1715040816
+      roguelikeSheet_transparent_896: -500153108
       roguelikeSheet_transparent_1624: -194110439
-      roguelikeSheet_transparent_1661: 1061196275
       roguelikeSheet_transparent_712: -703639831
       roguelikeSheet_transparent_395: 1621586202
       roguelikeSheet_transparent_1222: -1234780187
@@ -35619,11 +35619,11 @@ TextureImporter:
       roguelikeSheet_transparent_911: -1895525516
       roguelikeSheet_transparent_103: -249045059
       roguelikeSheet_transparent_125: 2045604120
-      roguelikeSheet_transparent_423: 1914701525
-      roguelikeSheet_transparent_251: -576641975
-      roguelikeSheet_transparent_472: -786360122
       roguelikeSheet_transparent_299: -1961325890
       roguelikeSheet_transparent_558: -231765575
+      roguelikeSheet_transparent_472: -786360122
+      roguelikeSheet_transparent_251: -576641975
+      roguelikeSheet_transparent_423: 1914701525
       roguelikeSheet_transparent_971: -359928971
       roguelikeSheet_transparent_1343: -84232732
       roguelikeSheet_transparent_637: -1746825739
@@ -35696,9 +35696,9 @@ TextureImporter:
       roguelikeSheet_transparent_115: -1637283062
       roguelikeSheet_transparent_1567: 1546464806
       roguelikeSheet_transparent_1597: -1990816840
-      roguelikeSheet_transparent_954: 1515959422
       roguelikeSheet_transparent_1163: -1991175290
       roguelikeSheet_transparent_1666: -164172491
+      roguelikeSheet_transparent_954: 1515959422
       roguelikeSheet_transparent_826: -164413679
       roguelikeSheet_transparent_0: -929046171
       roguelikeSheet_transparent_1020: 1581307050
@@ -35747,13 +35747,13 @@ TextureImporter:
       roguelikeSheet_transparent_175: -31934316
       roguelikeSheet_transparent_1433: 1106191735
       roguelikeSheet_transparent_545: 1000225413
-      roguelikeSheet_transparent_660: 1798531203
+      roguelikeSheet_transparent_1027: 2147463620
       roguelikeSheet_transparent_456: 1205833147
       roguelikeSheet_transparent_514: -605122939
-      roguelikeSheet_transparent_1027: 2147463620
       roguelikeSheet_transparent_1548: 162359049
       roguelikeSheet_transparent_296: 1079740577
       roguelikeSheet_transparent_797: -1194103231
+      roguelikeSheet_transparent_660: 1798531203
       roguelikeSheet_transparent_1644: -357248617
       roguelikeSheet_transparent_1362: 1159301466
       roguelikeSheet_transparent_107: 1461701423
@@ -35761,16 +35761,16 @@ TextureImporter:
       roguelikeSheet_transparent_1330: 672559659
       roguelikeSheet_transparent_662: -1722302591
       roguelikeSheet_transparent_47: -893937476
-      roguelikeSheet_transparent_620: -1818263425
-      roguelikeSheet_transparent_775: 503211495
       roguelikeSheet_transparent_1181: -699720467
+      roguelikeSheet_transparent_620: -1818263425
+      roguelikeSheet_transparent_1372: 1514844874
       roguelikeSheet_transparent_73: -451101474
       roguelikeSheet_transparent_836: -119909132
-      roguelikeSheet_transparent_1372: 1514844874
       roguelikeSheet_transparent_1535: 532595486
       roguelikeSheet_transparent_509: 158260750
       roguelikeSheet_transparent_679: 1348084660
       roguelikeSheet_transparent_453: -633402273
+      roguelikeSheet_transparent_775: 503211495
       roguelikeSheet_transparent_1318: -721957284
       roguelikeSheet_transparent_921: -1626349187
       roguelikeSheet_transparent_1398: -1268062317
@@ -35785,9 +35785,9 @@ TextureImporter:
       roguelikeSheet_transparent_1539: -405477742
       roguelikeSheet_transparent_1583: 525966540
       roguelikeSheet_transparent_114: -949623044
-      roguelikeSheet_transparent_970: 611358308
       roguelikeSheet_transparent_1370: 687138993
       roguelikeSheet_transparent_1425: 1076638092
+      roguelikeSheet_transparent_970: 611358308
       roguelikeSheet_transparent_259: 814462103
       roguelikeSheet_transparent_1473: 243290608
       roguelikeSheet_transparent_1474: 1279490774
@@ -35800,14 +35800,14 @@ TextureImporter:
       roguelikeSheet_transparent_717: -1379248239
       roguelikeSheet_transparent_869: 1648361950
       roguelikeSheet_transparent_502: 1215020661
-      roguelikeSheet_transparent_1047: 289169464
-      roguelikeSheet_transparent_1472: 1364453661
       roguelikeSheet_transparent_1459: 217422217
+      roguelikeSheet_transparent_1472: 1364453661
+      roguelikeSheet_transparent_1047: 289169464
       roguelikeSheet_transparent_24: -36767982
+      roguelikeSheet_transparent_892: 678674788
       roguelikeSheet_transparent_857: 1781966525
       roguelikeSheet_transparent_465: -1167412752
       roguelikeSheet_transparent_1551: -1357302824
-      roguelikeSheet_transparent_892: 678674788
       roguelikeSheet_transparent_1628: 1592213697
       roguelikeSheet_transparent_879: -316130251
       roguelikeSheet_transparent_1023: 746276239
@@ -35936,14 +35936,14 @@ TextureImporter:
       roguelikeSheet_transparent_618: 728519635
       roguelikeSheet_transparent_989: 2142521348
       roguelikeSheet_transparent_325: 1468604744
-      roguelikeSheet_transparent_689: -1509213944
       roguelikeSheet_transparent_831: 1287264867
+      roguelikeSheet_transparent_1265: 453869087
+      roguelikeSheet_transparent_689: -1509213944
       roguelikeSheet_transparent_562: 615200613
       roguelikeSheet_transparent_52: -1781436590
       roguelikeSheet_transparent_83: -1661354205
       roguelikeSheet_transparent_138: 1698708186
       roguelikeSheet_transparent_317: 326020930
-      roguelikeSheet_transparent_1265: 453869087
       roguelikeSheet_transparent_647: -704069938
       roguelikeSheet_transparent_1438: 24810642
       roguelikeSheet_transparent_610: 2127753460
@@ -35967,10 +35967,10 @@ TextureImporter:
       roguelikeSheet_transparent_242: -1359505476
       roguelikeSheet_transparent_835: -1099104235
       roguelikeSheet_transparent_1066: 153891032
-      roguelikeSheet_transparent_1103: -58051255
       roguelikeSheet_transparent_1633: 1583446900
-      roguelikeSheet_transparent_1258: 54469530
+      roguelikeSheet_transparent_1103: -58051255
       roguelikeSheet_transparent_413: -286233143
+      roguelikeSheet_transparent_1258: 54469530
       roguelikeSheet_transparent_1274: 1250977515
       roguelikeSheet_transparent_1481: -1188853859
       roguelikeSheet_transparent_424: 1049071556
@@ -36043,18 +36043,18 @@ TextureImporter:
       roguelikeSheet_transparent_1608: -153441049
       roguelikeSheet_transparent_1615: -1586168282
       roguelikeSheet_transparent_608: 1840553629
-      roguelikeSheet_transparent_1061: -1357687667
       roguelikeSheet_transparent_1209: -99585913
+      roguelikeSheet_transparent_1061: -1357687667
       roguelikeSheet_transparent_1546: 1630024071
       roguelikeSheet_transparent_927: 1303966473
       roguelikeSheet_transparent_932: 473119355
       roguelikeSheet_transparent_1529: 1544359017
       roguelikeSheet_transparent_590: 1887728952
       roguelikeSheet_transparent_1128: 900108260
-      roguelikeSheet_transparent_1146: -371927745
-      roguelikeSheet_transparent_308: -757226499
-      roguelikeSheet_transparent_1031: 931824749
       roguelikeSheet_transparent_1341: 1287258327
+      roguelikeSheet_transparent_308: -757226499
+      roguelikeSheet_transparent_1146: -371927745
+      roguelikeSheet_transparent_1031: 931824749
       roguelikeSheet_transparent_71: -703346438
       roguelikeSheet_transparent_119: -150878882
       roguelikeSheet_transparent_439: 202498238
@@ -36085,8 +36085,8 @@ TextureImporter:
       roguelikeSheet_transparent_840: -542133276
       roguelikeSheet_transparent_880: 279550812
       roguelikeSheet_transparent_1068: 1413726671
-      roguelikeSheet_transparent_1121: 473807696
       roguelikeSheet_transparent_1290: 1989496644
+      roguelikeSheet_transparent_1121: 473807696
       roguelikeSheet_transparent_399: -1088038184
       roguelikeSheet_transparent_950: -1195302118
       roguelikeSheet_transparent_1499: 205487535
@@ -36094,10 +36094,10 @@ TextureImporter:
       roguelikeSheet_transparent_80: 1933846742
       roguelikeSheet_transparent_1327: 1939794651
       roguelikeSheet_transparent_137: 205703117
-      roguelikeSheet_transparent_163: -834310954
       roguelikeSheet_transparent_1112: 1773417538
       roguelikeSheet_transparent_1055: -1387453276
       roguelikeSheet_transparent_4: 677091114
+      roguelikeSheet_transparent_163: -834310954
       roguelikeSheet_transparent_426: 134984761
       roguelikeSheet_transparent_1588: 58633039
       roguelikeSheet_transparent_1123: 1551978580
@@ -36108,11 +36108,11 @@ TextureImporter:
       roguelikeSheet_transparent_1586: 157110653
       roguelikeSheet_transparent_682: -397305930
       roguelikeSheet_transparent_916: 1297216465
-      roguelikeSheet_transparent_1234: -311432987
       roguelikeSheet_transparent_1417: 1471854638
       roguelikeSheet_transparent_297: -1139499561
       roguelikeSheet_transparent_318: -2075255562
       roguelikeSheet_transparent_1263: 1202194636
+      roguelikeSheet_transparent_1234: -311432987
       roguelikeSheet_transparent_1219: -18918050
       roguelikeSheet_transparent_1091: -395970915
       roguelikeSheet_transparent_263: -1285299400
@@ -36121,8 +36121,8 @@ TextureImporter:
       roguelikeSheet_transparent_254: -355441162
       roguelikeSheet_transparent_1498: 1944696001
       roguelikeSheet_transparent_72: 1239333660
-      roguelikeSheet_transparent_531: 891322145
       roguelikeSheet_transparent_569: -1385047996
+      roguelikeSheet_transparent_531: 891322145
       roguelikeSheet_transparent_1270: 2027280498
       roguelikeSheet_transparent_825: -1972609532
       roguelikeSheet_transparent_1045: 1799442454
@@ -36153,12 +36153,12 @@ TextureImporter:
       roguelikeSheet_transparent_699: 553529953
       roguelikeSheet_transparent_1549: -1001016899
       roguelikeSheet_transparent_714: -2033434791
-      roguelikeSheet_transparent_1326: 876713197
       roguelikeSheet_transparent_1560: 1673215950
       roguelikeSheet_transparent_559: 433844646
       roguelikeSheet_transparent_232: 940081404
       roguelikeSheet_transparent_43: 1734004348
       roguelikeSheet_transparent_752: -1149309063
+      roguelikeSheet_transparent_1326: 876713197
       roguelikeSheet_transparent_1450: -1663902276
       roguelikeSheet_transparent_1358: 460879968
       roguelikeSheet_transparent_113: 27650413
@@ -36326,11 +36326,11 @@ TextureImporter:
       roguelikeSheet_transparent_664: -1921296439
       roguelikeSheet_transparent_471: 2105179030
       roguelikeSheet_transparent_252: -1061002666
-      roguelikeSheet_transparent_845: 544517445
       roguelikeSheet_transparent_1533: 99809124
       roguelikeSheet_transparent_1255: 211072153
       roguelikeSheet_transparent_1500: -998130144
       roguelikeSheet_transparent_214: -2134803451
+      roguelikeSheet_transparent_845: 544517445
       roguelikeSheet_transparent_1041: -2060551406
       roguelikeSheet_transparent_1485: 739527618
       roguelikeSheet_transparent_1629: 1603422856
@@ -36359,13 +36359,13 @@ TextureImporter:
       roguelikeSheet_transparent_478: 317261276
       roguelikeSheet_transparent_762: 2071196500
       roguelikeSheet_transparent_415: 540914157
+      roguelikeSheet_transparent_1262: 235578251
       roguelikeSheet_transparent_225: -1171767041
       roguelikeSheet_transparent_406: -805454828
-      roguelikeSheet_transparent_1262: 235578251
       roguelikeSheet_transparent_621: -2128802335
-      roguelikeSheet_transparent_1288: -1227759170
       roguelikeSheet_transparent_1152: 716039448
       roguelikeSheet_transparent_345: 1061624724
+      roguelikeSheet_transparent_1288: -1227759170
       roguelikeSheet_transparent_1387: -179713278
       roguelikeSheet_transparent_1446: -489775436
       roguelikeSheet_transparent_1053: 1025662303
@@ -36433,8 +36433,8 @@ TextureImporter:
       roguelikeSheet_transparent_1200: 1241428837
       roguelikeSheet_transparent_1347: -1121621674
       roguelikeSheet_transparent_440: 1995432746
-      roguelikeSheet_transparent_1226: 937174280
       roguelikeSheet_transparent_560: -940364212
+      roguelikeSheet_transparent_1226: 937174280
       roguelikeSheet_transparent_929: -157442419
       roguelikeSheet_transparent_1605: -700414804
       roguelikeSheet_transparent_601: 1107519738
@@ -36498,12 +36498,12 @@ TextureImporter:
       roguelikeSheet_transparent_470: -1350124839
       roguelikeSheet_transparent_828: 142831442
       roguelikeSheet_transparent_153: -567969510
-      roguelikeSheet_transparent_864: 1301688725
+      roguelikeSheet_transparent_1651: -259248011
       roguelikeSheet_transparent_1306: -1089728646
       roguelikeSheet_transparent_1600: -2033395834
+      roguelikeSheet_transparent_864: 1301688725
       roguelikeSheet_transparent_266: -1056740436
       roguelikeSheet_transparent_1317: -180799920
-      roguelikeSheet_transparent_1651: -259248011
       roguelikeSheet_transparent_743: 280311333
       roguelikeSheet_transparent_1074: 1794622843
       roguelikeSheet_transparent_435: 77448411
@@ -36530,10 +36530,10 @@ TextureImporter:
       roguelikeSheet_transparent_136: 1243690704
       roguelikeSheet_transparent_27: 610133080
       roguelikeSheet_transparent_768: 1925288107
-      roguelikeSheet_transparent_444: -2032378686
-      roguelikeSheet_transparent_1465: -2124218509
       roguelikeSheet_transparent_1552: 530823833
+      roguelikeSheet_transparent_444: -2032378686
       roguelikeSheet_transparent_1299: 1125899010
+      roguelikeSheet_transparent_1465: -2124218509
       roguelikeSheet_transparent_697: 1464484373
       roguelikeSheet_transparent_1090: 1434616202
       roguelikeSheet_transparent_117: -101003421
@@ -36614,12 +36614,12 @@ TextureImporter:
       roguelikeSheet_transparent_1637: -1422055831
       roguelikeSheet_transparent_1077: -1698683028
       roguelikeSheet_transparent_749: -1384934639
-      roguelikeSheet_transparent_1048: -2101553870
-      roguelikeSheet_transparent_1338: 43529295
-      roguelikeSheet_transparent_346: 55862508
-      roguelikeSheet_transparent_1392: 1420959711
-      roguelikeSheet_transparent_996: -393490280
       roguelikeSheet_transparent_1672: -1236854370
+      roguelikeSheet_transparent_1048: -2101553870
+      roguelikeSheet_transparent_346: 55862508
+      roguelikeSheet_transparent_1338: 43529295
+      roguelikeSheet_transparent_996: -393490280
+      roguelikeSheet_transparent_1392: 1420959711
       roguelikeSheet_transparent_1182: 1527075399
       roguelikeSheet_transparent_698: 764525155
       roguelikeSheet_transparent_1017: -698630638
