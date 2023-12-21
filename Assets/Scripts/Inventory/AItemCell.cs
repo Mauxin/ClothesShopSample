@@ -14,8 +14,10 @@ namespace Inventory
         
         protected Item Item { get; private set; }
         
-        protected abstract void OnActionButtonClick();
+        protected abstract bool Interactable { get; }
         
+        protected abstract void OnActionButtonClick();
+
         public void SetItem(Item item)
         {
             Item = item;
@@ -24,7 +26,7 @@ namespace Inventory
             _descriptionText.text = item.Description;
             _priceText.text = item.Price.ToString();
             _actionButton.onClick.AddListener(OnActionButtonClick);
-            _actionButton.interactable = item.CanPurchase;
+            _actionButton.interactable = Interactable;
         }
     }
 }
